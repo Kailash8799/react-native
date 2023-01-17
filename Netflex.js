@@ -24,7 +24,7 @@ const Netflix = () => {
         {
             name: 'Flashfg',
             img: { uri: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsyEPU_bl10D0_Ux6PtoY3wajfb4zPrXPzGvXttOZv1b3UBgUl1uUqgh4&s' },
-            desc: 'I am the flash and i am a fast man in the world',
+            desc: 'I am the flash and i am a fast man in the a world',
             lk: 'http://www.netflix.com'
         },
     ]
